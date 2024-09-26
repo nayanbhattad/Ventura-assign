@@ -1,0 +1,235 @@
+{
+  "ipo": [
+    {
+      "id": "1",
+      "avatar": "https://seeklogo.com/images/O/oyo-rooms-logo-6C301512FE-seeklogo.com.png",
+      "companyName": "GO AIR",
+      "issueSize": "3600 cr.",
+      "priceRange": "50-60",
+      "minimumAmount": "50,000",
+      "lotSize": "100",
+      "issueDates": "12 Dec - 15 Dec 2022",
+      "listedOn": "15 Dec 2022",
+      "listedPrice": "50",
+      "listingGains": "10",
+      "about":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "timeline": [
+        {
+          "title": "bidding starts",
+          "isCompleted": true,
+          "date": "12 Dec 2023"
+        },
+        {
+          "title": "bidding ends",
+          "isCompleted": true,
+          "date": "15 Dec 2023"
+        },
+        {
+          "title": "allotment finalization",
+          "isCompleted": true,
+          "date": "18 Dec 2023"
+        },
+        {
+          "title": "Refund initiation",
+          "isCompleted": true,
+          "date": "18 Dec 2023"
+        },
+        {
+          "title": "Demat transfer",
+          "isCompleted": true,
+          "date": "18 Dec 2023"
+        },
+        {
+          "title": "Listing Date",
+          "isCompleted": true,
+          "date": "21 Dec 2023"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "avatar": "https://e7.pngegg.com/pngimages/90/665/png-clipart-goair-rajiv-gandhi-international-airport-airline-low-cost-carrier-spicejet-others-miscellaneous-blue-thumbnail.png",
+      "companyName": "GO AIR",
+      "issueSize": "2800 cr.",
+      "priceRange": "150-160",
+      "minimumAmount": "40,000",
+      "lotSize": "50",
+      "issueDates": "12 Dec - 15 Dec 2022",
+      "listedOn": "15 Dec 2022",
+      "listedPrice": "150",
+      "listingGains": "5",
+      "about": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "timeline": [
+        {
+          "title": "bidding starts",
+          "isCompleted": true,
+          "date": "14 Dec 2023"
+        },
+        {
+          "title": "bidding ends",
+          "isCompleted": true,
+          "date": "16 Dec 2023"
+        },
+        {
+          "title": "allotment finalization",
+          "isCompleted": true,
+          "date": "18 Dec 2023"
+        },
+        {
+          "title": "Refund initiation",
+          "isCompleted": false,
+          "date": "18 Dec 2023"
+        },
+        {
+          "title": "Demat transfer",
+          "isCompleted": false,
+          "date": "18 Dec 2023"
+        },
+        {
+          "title": "Listing Date",
+          "isCompleted": false,
+          "date": "21 Dec 2023"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "avatar": "https://bajajenergy.com/bajajenergy_assets/s3fs-public/images/Bajaj_Energy_logo.jpg",
+      "companyName": "BAJAJ Energy",
+      "issueSize": "3600 cr.",
+      "priceRange": "50-60",
+      "minimumAmount": "50,000",
+      "lotSize": "100",
+      "issueDates": "12 Dec - 15 Dec 2022",
+      "listedOn": "15 Dec 2022",
+      "listedPrice": "50",
+      "listingGains": "10",
+      "about": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "timeline": [
+        {
+          "title": "bidding starts",
+          "isCompleted": true,
+          "date": "12 Dec 2023"
+        },
+        {
+          "title": "bidding ends",
+          "isCompleted": true,
+          "date": "15 Dec 2023"
+        },
+        {
+          "title": "allotment finalization",
+          "isCompleted": true,
+          "date": "18 Dec 2023"
+        },
+        {
+          "title": "Refund initiation",
+          "isCompleted": true,
+          "date": "18 Dec 2023"
+        },
+        {
+          "title": "Demat transfer",
+          "isCompleted": true,
+          "date": "18 Dec 2023"
+        },
+        {
+          "title": "Listing Date",
+          "isCompleted": true,
+          "date": "21 Dec 2023"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Adani_2012_logo.png",
+      "companyName": "ADANI",
+      "issueSize": "3600 cr.",
+      "priceRange": "50-60",
+      "minimumAmount": "50,000",
+      "lotSize": "100",
+      "issueDates": "12 Dec - 15 Dec 2022",
+      "listedOn": "15 Dec 2022",
+      "listedPrice": "50",
+      "listingGains": "10",
+      "about": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "timeline": [
+        {
+          "title": "bidding starts",
+          "isCompleted": true,
+          "date": "12 Dec 2023"
+        },
+        {
+          "title": "bidding ends",
+          "isCompleted": true,
+          "date": "15 Dec 2023"
+        },
+        {
+          "title": "allotment finalization",
+          "isCompleted": true,
+          "date": "18 Dec 2023"
+        },
+        {
+          "title": "Refund initiation",
+          "isCompleted": true,
+          "date": "18 Dec 2023"
+        },
+        {
+          "title": "Demat transfer",
+          "isCompleted": true,
+          "date": "18 Dec 2023"
+        },
+        {
+          "title": "Listing Date",
+          "isCompleted": true,
+          "date": "21 Dec 2023"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9AadNHQhLzWdn6cJXt9abVHd0BoUUCpzc2pd_FlHJQP-maRVmMzXkWaIrJa71feyi9rE&usqp=CAU",
+      "companyName": "TCS",
+      "issueSize": "3600 cr.",
+      "priceRange": "50-60",
+      "minimumAmount": "50,000",
+      "lotSize": "100",
+      "issueDates": "12 Dec - 15 Dec 2022",
+      "listedOn": "15 Dec 2022",
+      "listedPrice": "50",
+      "listingGains": "10",
+      "about": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "timeline": [
+        {
+          "title": "bidding starts",
+          "isCompleted": true,
+          "date": "12 Dec 2023"
+        },
+        {
+          "title": "bidding ends",
+          "isCompleted": true,
+          "date": "15 Dec 2023"
+        },
+        {
+          "title": "allotment finalization",
+          "isCompleted": true,
+          "date": "18 Dec 2023"
+        },
+        {
+          "title": "Refund initiation",
+          "isCompleted": true,
+          "date": "18 Dec 2023"
+        },
+        {
+          "title": "Demat transfer",
+          "isCompleted": true,
+          "date": "18 Dec 2023"
+        },
+        {
+          "title": "Listing Date",
+          "isCompleted": true,
+          "date": "21 Dec 2023"
+        }
+      ]
+    }
+    
+  ]
+}
